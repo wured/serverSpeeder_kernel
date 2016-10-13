@@ -725,7 +725,6 @@ gentoo/gentoo/3.2.12-gentoo/x64/3.10.66.29/serverspeeder_3048
 gentoo/gentoo/3.2.12-gentoo/x64/3.10.61.0/serverspeeder_2561
 gentoo/gentoo/3.2.12-gentoo/x64/3.10.54.8/serverspeeder_2404
 gentoo/gentoo/3.2.12-gentoo/x64/3.10.53.0/serverspeeder_2311
-Linux_ks29993.kimsufi.com_2.6.32-5-686_#1_SMP_Mon_Feb/25/2.6.32-5-686/x32/3.9.10.49/serverspeeder_1748
 OWLinux/4.0.3/2.6.26.8.1.OWLsmp/x64/3.11.20.4/serverspeeder_3244
 OWLinux/4.0.3/2.6.26.8.1.OWLsmp/x64/3.10.66.29/serverspeeder_3104
 OWLinux/4.0.3/2.6.26.8.1.OWLsmp/x64/3.10.61.0/serverspeeder_2619
