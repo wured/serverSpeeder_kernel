@@ -9,6 +9,6 @@
 #\#  -[Debian7 3.2.0-4 安装](https://github.com/0oVicero0/serverSpeeser_Install)-  \#    
 -----------------------------   
 -----------------------------   
-#\#  -[[ 自 定 义 许 可 证 ]](http://serverspeeder.azurewebsites.net)-  \#               
+#\#  -[[# 自 定 义 许 可 证 #]](http://serverspeeder.azurewebsites.net)-  \#               
 -----------------------------   
 
