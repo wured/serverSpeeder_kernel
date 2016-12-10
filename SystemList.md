@@ -879,6 +879,13 @@
       <td>64-bits</td>
       <td>3.11.20.4</td>
     </tr>
+    <tr id="luxxtr10867">
+      <td><span title="CentOS"> CentOS</span></td>
+      <td>7.2</td>
+      <td>3.10.0-327.el7.x86_64</td>
+      <td>64-bits</td>
+      <td>3.11.20.5</td>
+    </tr>
     <tr id="luxxtr1811">
       <td><span title="CloudLinux"> CloudLinux</span></td>
       <td>6.5</td>
@@ -1039,6 +1046,20 @@
       <td>4.1.0-x86_64-linode59</td>
       <td>64-bits</td>
       <td>3.10.66.25</td>
+    </tr>
+    <tr id="luxxtr158t5">
+      <td><span title="Debian"> Debian</span></td>
+      <td>8</td>
+      <td>4.4.10-1-pve</td>
+      <td>64-bits</td>
+      <td>3.11.20.6</td>
+    </tr>
+    <tr id="luxxtr15t65">
+      <td><span title="Debian"> Debian</span></td>
+      <td>8</td>
+      <td>3.16.0-4-amd64</td>
+      <td>64-bits</td>
+      <td>3.11.20.4</td>
     </tr>
     <tr id="luxxtr193">
       <td><span title="Fedora"> Fedora</span></td>
@@ -2061,6 +2082,13 @@
       <td>4.0.2-x86_64-linode56</td>
       <td>64-bits</td>
       <td>3.10.61.0</td>
+    </tr>
+    <tr id="luxxtr111x4">
+      <td><span title="Ubuntu"> Ubuntu</span></td>
+      <td>16.04</td>
+      <td>4.4.0-47-generic</td>
+      <td>64-bits</td>
+      <td>3.11.20.10</td>
     </tr>
     <tr id="luxxtr1258">
       <td><span title="Ubuntu"> Ubuntu</span></td>
