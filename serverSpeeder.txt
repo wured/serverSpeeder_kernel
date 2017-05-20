@@ -609,7 +609,6 @@ CentOS/5.11/2.6.18-398.el5/x64/3.10.66.29/serverspeeder_3083
 CentOS/5.11/2.6.18-398.el5/x64/3.10.61.0/serverspeeder_2704
 CentOS/7.1/3.10.0-229.1.2.el7.x86_64/x64/3.11.20.4/serverspeeder_3283
 CentOS/7.1/3.10.0-229.1.2.el7.x86_64/x64/3.10.61.12/serverspeeder_2727
-CentOS/7.2/3.10.0-327.el7.x86_64/x64/3.11.20.5/serverspeeder_9999
 CentOS/7.0/3.10.0-123.x86_64/x64/3.10.66.29/serverspeeder_3091
 CentOS/6.7/2.6.32-042stab112.15/x64/3.11.20.4/serverspeeder_3235
 CentOS/6.7/2.6.32-042stab112.15/x64/3.10.61.0/serverspeeder_3161
@@ -695,9 +694,6 @@ Debian/7/3.2.32/x64/3.10.53.0/serverspeeder_2289
 Debian/7/3.2.32/x64/3.10.45.0/serverspeeder_2154
 Debian/7/4.0.2-x86_64-linode56/x64/3.10.61.0/serverspeeder_2729
 Debian/7/4.1.0-x86_64-linode59/x64/3.10.66.25/serverspeeder_2845
-Debian/8/3.16.0-4-amd64/x64/3.10.61.0/serverspeeder_9998
-Debian/8/3.16.0-4-amd64/x64/3.11.20.4/serverspeeder_9999
-Debian/8/4.4.10-1-pve/x64/3.11.20.6/serverspeeder_9999
 Fedora/12/2.6.31.5-127.fc12.i686.PAE/x32/3.10.61.0/serverspeeder_2613
 Fedora/12/2.6.31.5-127.fc12.i686.PAE/x32/3.10.54.8/serverspeeder_2455
 Fedora/12/2.6.31.5-127.fc12.i686.PAE/x32/3.10.53.0/serverspeeder_2302
@@ -1408,7 +1404,6 @@ Ubuntu/14.10/3.18.1-x86_64-linode50/x64/3.10.61.0/serverspeeder_2684
 Ubuntu/14.10/3.18.5-x86-linode70/x32/3.10.61.0/serverspeeder_2690
 Ubuntu/14.10/3.18.5-x86_64-linode52/x64/3.10.61.0/serverspeeder_2692
 Ubuntu/14.10/4.0.2-x86_64-linode56/x64/3.10.61.0/serverspeeder_2730
-Ubuntu/16.04/4.4.0-47-generic/x64/3.11.20.10/serverspeeder_9999
 Ubuntu/37/3.12.9-x86_64-linode37/x64/3.10.54.8/serverspeeder_2494
 Ubuntu/56/3.12.9-x86-linode56/x32/3.10.54.8/serverspeeder_2493
 Ubuntu/9.10/2.6.31-14-server/x64/3.10.61.0/serverspeeder_2541
